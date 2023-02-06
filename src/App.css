@@ -1,5 +1,18 @@
+body {
+  background-color: #282c34;
+}
+
 .App {
+  width: 30%;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 8rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   text-align: center;
+  background-color: rgb(157 246 164 / 54%);
 }
 
 .App-logo {
